@@ -1,7 +1,7 @@
 import streamlit as st
+import plotly.express as px
 import pandas as pd
 import plotly.express as px
-import matplotlib.pyplot as plt
 
 
 # To set a webpage title, header and subtitle
